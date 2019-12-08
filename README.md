@@ -1,3 +1,3 @@
 # Jenkins
 
-Success :9
+Success :m
